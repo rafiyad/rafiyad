@@ -5,5 +5,5 @@
 - 💞️ I’m also interested in Embedded Systems.
 - 📫 How to reach me rafiyaddarazat@gmail.com or https://www.linkedin.com/in/rafiyad-darazat-631829172/
 - 🔨 Problem solved in beecrowd https://www.beecrowd.com.br/judge/en/profile/869690
-- 🔨 Problem solved in beecrowd https://www.hackerrank.com/profile/rafiyaddarazat
+- 🔨 Problem solved in hackerrank https://www.hackerrank.com/profile/rafiyaddarazat
   
